@@ -1,4 +1,4 @@
-# Marmelab ArchitectureTree
+# Data.gov Architecture Tree (Proof of Concept)
 
 ArchitectureTree is a single page application to visualize and edit architecture schemas in the browser, built with [d3.js](http://d3js.org/) and [AngularJS](https://angularjs.org/).
 
